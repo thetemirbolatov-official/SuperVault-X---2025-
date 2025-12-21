@@ -94,9 +94,9 @@ python supervaultx.py verify зашифрованный.svx
 ## 🌐 Соцсети автора
 
 - **GitHub**: https://github.com/ftoop17
-- **Telegram**: @thetemirbolatov
-- **VK**: vk.com/thetemirbolatov
-- **Instagram**: @thetemirbolatov
+- **Telegram**: https://t.me/thetemirbolatov
+- **VK**: https://vk.com/thetemirbolatov
+- **Instagram**: https://instagram/thetemirbolatov
 
 ## 🤝 Поддержка
 
